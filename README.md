@@ -83,7 +83,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 https://youtu.be/tlbIRGFIM-8?feature=shared
-Result:
+
+## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
 Mobile Robotics Laboratory
