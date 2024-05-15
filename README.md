@@ -77,11 +77,11 @@ if _name_ == '_main_':
 
     ep_robot.close()
 ```
-MobileRobot Movement Image:
+## MobileRobot Movement Image:
 ![ROBO](https://github.com/Sabari-2005/mobilerobot-openloopcontrol/assets/139338709/f17a3561-89c2-4ba5-b267-3824f81a8558)
 
 
-MobileRobot Movement Video:
+## MobileRobot Movement Video:
 https://youtu.be/tlbIRGFIM-8?feature=shared
 Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
